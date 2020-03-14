@@ -1,16 +1,8 @@
-[Oo]bj
-[Bb]in
-*.user
-*.suo
-*.[Cc]ache
-*.bak
-*.ncb
-*.log 
+/.idea/
+/*.iml
+/target/
+/*.jar
+/*.class
+/*.zip
+/*.war
 
-target/
-.classpath
-.project
-.settings
-
-*.DS_Store
-[Tt]humbs.db
